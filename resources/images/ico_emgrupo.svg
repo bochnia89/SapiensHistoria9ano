@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.1" height="16.92" viewBox="0 0 15.1 16.92">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_511" data-name="Caminho 511" d="M0,0H15.1V-16.92H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_emgrupo" transform="translate(0 16.92)">
+    <g id="Grupo_80" data-name="Grupo 80" clip-path="url(#clip-path)">
+      <g id="Grupo_74" data-name="Grupo 74" transform="translate(12.602 -12.507)">
+        <path id="Caminho_505" data-name="Caminho 505" d="M0,0A2.414,2.414,0,0,1,2.414,2.414,2.414,2.414,0,0,1,0,4.828H-4.6A2.414,2.414,0,0,1-7.015,2.414,2.414,2.414,0,0,1-4.6,0Z" fill="#ff9027"/>
+      </g>
+      <g id="Grupo_75" data-name="Grupo 75" transform="translate(10.448 -11.48)">
+        <path id="Caminho_506" data-name="Caminho 506" d="M0,0A2.72,2.72,0,0,1-2.72-2.72,2.719,2.719,0,0,1,0-5.439,2.719,2.719,0,0,1,2.72-2.72,2.72,2.72,0,0,1,0,0" fill="#ff9027"/>
+      </g>
+      <g id="Grupo_76" data-name="Grupo 76" transform="translate(7.015 -7.886)">
+        <path id="Caminho_507" data-name="Caminho 507" d="M0,0A2.414,2.414,0,0,1,2.414,2.414,2.414,2.414,0,0,1,0,4.828H-4.6A2.414,2.414,0,0,1-7.015,2.414,2.414,2.414,0,0,1-4.6,0Z" fill="#50c6a8"/>
+      </g>
+      <g id="Grupo_77" data-name="Grupo 77" transform="translate(4.861 -6.86)">
+        <path id="Caminho_508" data-name="Caminho 508" d="M0,0A2.72,2.72,0,0,1-2.72-2.72,2.719,2.719,0,0,1,0-5.439,2.719,2.719,0,0,1,2.72-2.72,2.72,2.72,0,0,1,0,0" fill="#50c6a8"/>
+      </g>
+      <g id="Grupo_78" data-name="Grupo 78" transform="translate(12.686 -4.828)">
+        <path id="Caminho_509" data-name="Caminho 509" d="M0,0A2.414,2.414,0,0,1,2.414,2.414,2.414,2.414,0,0,1,0,4.828H-4.6A2.414,2.414,0,0,1-7.015,2.414,2.414,2.414,0,0,1-4.6,0Z" fill="#2268b8"/>
+      </g>
+      <g id="Grupo_79" data-name="Grupo 79" transform="translate(10.532 -3.801)">
+        <path id="Caminho_510" data-name="Caminho 510" d="M0,0A2.72,2.72,0,0,1-2.72-2.72,2.719,2.719,0,0,1,0-5.439,2.719,2.719,0,0,1,2.72-2.72,2.72,2.72,0,0,1,0,0" fill="#2268b8"/>
+      </g>
+    </g>
+  </g>
+</svg>

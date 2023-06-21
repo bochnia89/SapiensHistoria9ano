@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.173" height="11.571" viewBox="0 0 14.173 11.571">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_514" data-name="Caminho 514" d="M0,0H14.173V-11.571H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_resporal" transform="translate(0 11.571)">
+    <g id="Grupo_84" data-name="Grupo 84" clip-path="url(#clip-path)">
+      <g id="Grupo_82" data-name="Grupo 82" transform="translate(4.252 -11.571)">
+        <path id="Caminho_512" data-name="Caminho 512" d="M0,0A4.252,4.252,0,0,0,0,8.5H5.669a4.252,4.252,0,0,0,0-8.5Z" fill="#2268b8"/>
+      </g>
+      <g id="Grupo_83" data-name="Grupo 83" transform="translate(6.794 -3.7)">
+        <path id="Caminho_513" data-name="Caminho 513" d="M0,0,2.707,3.182c.716.841,1.166.637,1.006-.456L2.921-2.667" fill="#2268b8"/>
+      </g>
+    </g>
+  </g>
+</svg>

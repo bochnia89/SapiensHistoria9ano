@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="124" viewBox="0 0 76 124">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_4292" data-name="Retângulo 4292" width="76" height="124" transform="translate(998 497)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_10317" data-name="Caminho 10317" d="M71.434-76.408a14.419,14.419,0,0,1-20.39,0h0L40.875-86.576,15.044-60.745A14.376,14.376,0,0,0,10.822-50.5h0A14.377,14.377,0,0,1,15.044-60.64h0a14.418,14.418,0,0,1,20.391,0h0L45.578-50.5,71.434-76.353a14.375,14.375,0,0,0,4.223-10.223h0a14.372,14.372,0,0,1-4.223,10.168" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Caminho_10324" data-name="Caminho 10324" d="M0-65.218H27.452v-42.719H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Caminho_10385" data-name="Caminho 10385" d="M10.421-97.558a6.106,6.106,0,0,1-8.634,0h0A6.075,6.075,0,0,1,0-101.853H0a6.08,6.08,0,0,0,1.786,4.339h0L12.724-86.576l4.307-4.305a6.1,6.1,0,0,1,8.632,0h0a6.056,6.056,0,0,1,1.7,3.308h0V-87.6a6.064,6.064,0,0,0-1.7-3.306h0L14.716-101.853Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_deolhopv" transform="translate(-998 -497)" clip-path="url(#clip-path)">
+    <g id="Grupo_1089" data-name="Grupo 1089">
+      <g id="Grupo_1071" data-name="Grupo 1071" transform="translate(1013.044 560.757)">
+        <path id="Caminho_10172" data-name="Caminho 10172" d="M0,0H0A14.382,14.382,0,0,0,20.391,20.286L30.533,10.143,20.391,0A14.418,14.418,0,0,0,0,0" fill="#dc3d9c"/>
+      </g>
+      <g id="Grupo_1072" data-name="Grupo 1072" transform="translate(1069.434 544.988)">
+        <path id="Caminho_10173" data-name="Caminho 10173" d="M0,0H0A14.373,14.373,0,0,0,4.222-10.168,14.374,14.374,0,0,1,0,.055L-25.856,25.911-36,15.768a14.42,14.42,0,0,0-20.391,0,14.371,14.371,0,0,0-4.221,10.143A14.374,14.374,0,0,1-56.39,15.663l25.832-25.831L-20.391,0A14.418,14.418,0,0,0,0,0" fill="#6cc247"/>
+      </g>
+      <g id="Grupo_1074" data-name="Grupo 1074" transform="translate(998 621.397)" clip-path="url(#clip-path-2)">
+        <path id="Caminho_10175" data-name="Caminho 10175" d="M37.325-8.009H33.382V-13.16h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10176" data-name="Caminho 10176" d="M41.268-13.161H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10177" data-name="Caminho 10177" d="M45.212-8.009H41.269V-13.16h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10178" data-name="Caminho 10178" d="M21.552-8.009H17.609V-13.16h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10179" data-name="Caminho 10179" d="M25.5-13.161H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10180" data-name="Caminho 10180" d="M29.438-18.312H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10181" data-name="Caminho 10181" d="M33.382-23.463H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10182" data-name="Caminho 10182" d="M29.438-8.009H25.5V-13.16h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10183" data-name="Caminho 10183" d="M33.382-13.161H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10184" data-name="Caminho 10184" d="M37.325-18.312H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10185" data-name="Caminho 10185" d="M45.212-18.312H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10186" data-name="Caminho 10186" d="M37.325-28.614H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10187" data-name="Caminho 10187" d="M41.268-33.765H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10188" data-name="Caminho 10188" d="M45.212-38.917H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10189" data-name="Caminho 10189" d="M41.268-23.463H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10190" data-name="Caminho 10190" d="M45.212-28.614H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10191" data-name="Caminho 10191" d="M29.438-38.917H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10192" data-name="Caminho 10192" d="M33.382-44.068H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10193" data-name="Caminho 10193" d="M33.382-33.765H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10194" data-name="Caminho 10194" d="M37.325-38.917H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10195" data-name="Caminho 10195" d="M41.268-44.068H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10196" data-name="Caminho 10196" d="M25.5-44.068H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10197" data-name="Caminho 10197" d="M17.608-23.463H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10198" data-name="Caminho 10198" d="M21.552-28.614H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10199" data-name="Caminho 10199" d="M25.5-33.765H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10200" data-name="Caminho 10200" d="M17.608-13.161H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10201" data-name="Caminho 10201" d="M21.552-18.312H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10202" data-name="Caminho 10202" d="M25.5-23.463H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10203" data-name="Caminho 10203" d="M29.438-28.614H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10204" data-name="Caminho 10204" d="M17.608-44.068H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10205" data-name="Caminho 10205" d="M17.608-33.765H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10206" data-name="Caminho 10206" d="M21.552-38.917H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10207" data-name="Caminho 10207" d="M37.325-49.219H33.382V-54.37h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10208" data-name="Caminho 10208" d="M41.268-54.37H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10209" data-name="Caminho 10209" d="M45.212-49.219H41.269V-54.37h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10210" data-name="Caminho 10210" d="M21.552-49.219H17.609V-54.37h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10211" data-name="Caminho 10211" d="M25.5-54.37H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10212" data-name="Caminho 10212" d="M29.438-59.521H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10213" data-name="Caminho 10213" d="M33.382-64.672H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10214" data-name="Caminho 10214" d="M29.438-49.219H25.5V-54.37h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10215" data-name="Caminho 10215" d="M33.382-54.37H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10216" data-name="Caminho 10216" d="M37.325-59.521H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10217" data-name="Caminho 10217" d="M45.212-59.521H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10218" data-name="Caminho 10218" d="M37.325-69.824H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10219" data-name="Caminho 10219" d="M41.268-74.975H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10220" data-name="Caminho 10220" d="M45.212-80.126H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10221" data-name="Caminho 10221" d="M41.268-64.672H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10222" data-name="Caminho 10222" d="M45.212-69.824H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10223" data-name="Caminho 10223" d="M29.438-80.126H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10224" data-name="Caminho 10224" d="M33.382-85.277H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10225" data-name="Caminho 10225" d="M33.382-74.975H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10226" data-name="Caminho 10226" d="M37.325-80.126H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10227" data-name="Caminho 10227" d="M41.268-85.277H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10228" data-name="Caminho 10228" d="M25.5-85.277H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10229" data-name="Caminho 10229" d="M17.608-64.672H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10230" data-name="Caminho 10230" d="M21.552-69.824H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10231" data-name="Caminho 10231" d="M25.5-74.975H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10232" data-name="Caminho 10232" d="M17.608-54.37H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10233" data-name="Caminho 10233" d="M21.552-59.521H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10234" data-name="Caminho 10234" d="M25.5-64.672H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10235" data-name="Caminho 10235" d="M29.438-69.824H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10236" data-name="Caminho 10236" d="M17.608-85.277H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10237" data-name="Caminho 10237" d="M17.608-74.975H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10238" data-name="Caminho 10238" d="M21.552-80.126H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10239" data-name="Caminho 10239" d="M68.871-8.009H64.928V-13.16h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10240" data-name="Caminho 10240" d="M72.815-13.161H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10241" data-name="Caminho 10241" d="M53.1-8.009H49.155V-13.16H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10242" data-name="Caminho 10242" d="M57.041-13.161H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10243" data-name="Caminho 10243" d="M60.985-18.312H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10244" data-name="Caminho 10244" d="M64.928-23.463H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10245" data-name="Caminho 10245" d="M60.985-8.009H57.042V-13.16h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10246" data-name="Caminho 10246" d="M64.928-13.161H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10247" data-name="Caminho 10247" d="M68.871-18.312H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10248" data-name="Caminho 10248" d="M68.871-28.614H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10249" data-name="Caminho 10249" d="M72.815-33.765H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10250" data-name="Caminho 10250" d="M72.815-23.463H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10251" data-name="Caminho 10251" d="M60.985-38.917H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10252" data-name="Caminho 10252" d="M64.928-44.068H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10253" data-name="Caminho 10253" d="M64.928-33.765H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10254" data-name="Caminho 10254" d="M68.871-38.917H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10255" data-name="Caminho 10255" d="M72.815-44.068H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10256" data-name="Caminho 10256" d="M57.041-44.068H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10257" data-name="Caminho 10257" d="M49.155-23.463H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10258" data-name="Caminho 10258" d="M53.1-28.614H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10259" data-name="Caminho 10259" d="M57.041-33.765H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10260" data-name="Caminho 10260" d="M49.155-13.161H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10261" data-name="Caminho 10261" d="M53.1-18.312H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10262" data-name="Caminho 10262" d="M57.041-23.463H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10263" data-name="Caminho 10263" d="M60.985-28.614H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10264" data-name="Caminho 10264" d="M49.155-44.068H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10265" data-name="Caminho 10265" d="M49.155-33.765H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10266" data-name="Caminho 10266" d="M53.1-38.917H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10267" data-name="Caminho 10267" d="M68.871-49.219H64.928V-54.37h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10268" data-name="Caminho 10268" d="M72.815-54.37H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10269" data-name="Caminho 10269" d="M53.1-49.219H49.155V-54.37H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10270" data-name="Caminho 10270" d="M57.041-54.37H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10271" data-name="Caminho 10271" d="M60.985-59.521H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10272" data-name="Caminho 10272" d="M64.928-64.672H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10273" data-name="Caminho 10273" d="M60.985-49.219H57.042V-54.37h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10274" data-name="Caminho 10274" d="M64.928-54.37H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10275" data-name="Caminho 10275" d="M68.871-59.521H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10276" data-name="Caminho 10276" d="M68.871-69.824H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10277" data-name="Caminho 10277" d="M72.815-74.975H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10278" data-name="Caminho 10278" d="M72.815-64.672H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10279" data-name="Caminho 10279" d="M60.985-80.126H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10280" data-name="Caminho 10280" d="M64.928-85.277H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10281" data-name="Caminho 10281" d="M64.928-74.975H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10282" data-name="Caminho 10282" d="M68.871-80.126H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10283" data-name="Caminho 10283" d="M72.815-85.277H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10284" data-name="Caminho 10284" d="M57.041-85.277H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10285" data-name="Caminho 10285" d="M49.155-64.672H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10286" data-name="Caminho 10286" d="M53.1-69.824H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10287" data-name="Caminho 10287" d="M57.041-74.975H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10288" data-name="Caminho 10288" d="M49.155-54.37H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10289" data-name="Caminho 10289" d="M53.1-59.521H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10290" data-name="Caminho 10290" d="M57.041-64.672H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10291" data-name="Caminho 10291" d="M60.985-69.824H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10292" data-name="Caminho 10292" d="M49.155-85.277H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10293" data-name="Caminho 10293" d="M49.155-74.975H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10294" data-name="Caminho 10294" d="M53.1-80.126H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10295" data-name="Caminho 10295" d="M37.325-90.428H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10296" data-name="Caminho 10296" d="M41.268-95.579H37.325v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10297" data-name="Caminho 10297" d="M45.212-90.428H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10298" data-name="Caminho 10298" d="M21.552-90.428H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10299" data-name="Caminho 10299" d="M25.5-95.579H21.552v-5.151H25.5Z" fill="#6cc247"/>
+        <path id="Caminho_10300" data-name="Caminho 10300" d="M29.438-100.731H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10301" data-name="Caminho 10301" d="M29.438-90.428H25.5v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10302" data-name="Caminho 10302" d="M33.382-95.579H29.439v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10303" data-name="Caminho 10303" d="M37.325-100.731H33.382v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10304" data-name="Caminho 10304" d="M45.212-100.731H41.269v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10305" data-name="Caminho 10305" d="M17.608-95.579H13.665v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10306" data-name="Caminho 10306" d="M21.552-100.731H17.609v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10307" data-name="Caminho 10307" d="M68.871-90.428H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10308" data-name="Caminho 10308" d="M72.815-95.579H68.872v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10309" data-name="Caminho 10309" d="M53.1-90.428H49.155v-5.151H53.1Z" fill="#6cc247"/>
+        <path id="Caminho_10310" data-name="Caminho 10310" d="M57.041-95.579H53.1v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10311" data-name="Caminho 10311" d="M60.985-100.731H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10312" data-name="Caminho 10312" d="M60.985-90.428H57.042v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10313" data-name="Caminho 10313" d="M64.928-95.579H60.985v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10314" data-name="Caminho 10314" d="M68.871-100.731H64.928v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10315" data-name="Caminho 10315" d="M49.155-95.579H45.212v-5.151h3.943Z" fill="#6cc247"/>
+        <path id="Caminho_10316" data-name="Caminho 10316" d="M53.1-100.731H49.155v-5.151H53.1Z" fill="#6cc247"/>
+      </g>
+      <g id="Grupo_1075" data-name="Grupo 1075" transform="translate(1023.24 478.403)">
+        <path id="Caminho_10318" data-name="Caminho 10318" d="M0,0,20.338,20.338,46.194,46.194a14.373,14.373,0,0,1,4.223,10.223A14.418,14.418,0,0,0,25.8,46.249L15.636,56.417-25.24,15.542V0Z" fill="#2268b8"/>
+      </g>
+      <g id="Grupo_1076" data-name="Grupo 1076" transform="translate(1069.434 524.653)">
+        <path id="Caminho_10319" data-name="Caminho 10319" d="M0,0H0A14.373,14.373,0,0,1,4.222,10.168,14.375,14.375,0,0,1,0,20.336a14.42,14.42,0,0,1-20.391,0L-30.558,10.168-20.391,0A14.418,14.418,0,0,1,0,0" fill="#e2e365"/>
+      </g>
+      <g id="Grupo_1077" data-name="Grupo 1077" transform="translate(1069.462 596.838)">
+        <path id="Caminho_10320" data-name="Caminho 10320" d="M0,0A14.418,14.418,0,0,0-20.391,0L-30.559,10.168-56.417-15.691a14.373,14.373,0,0,1-4.222-10.248A14.37,14.37,0,0,0-56.417-15.8a14.417,14.417,0,0,0,20.39,0l10.143-10.143L-.028-.083A14.352,14.352,0,0,1,3.6,6.018,14.347,14.347,0,0,0,0,0" fill="#ff9027"/>
+      </g>
+      <g id="Grupo_1078" data-name="Grupo 1078" transform="translate(1069.462 617.174)">
+        <path id="Caminho_10321" data-name="Caminho 10321" d="M0,0H0A14.373,14.373,0,0,0,4.222-10.168,14.375,14.375,0,0,0,0-20.336a14.42,14.42,0,0,0-20.391,0L-30.558-10.168-20.391,0A14.418,14.418,0,0,0,0,0" fill="#2268b8"/>
+      </g>
+      <g id="Grupo_1081" data-name="Grupo 1081" transform="translate(998 621.397)" clip-path="url(#clip-path-3)">
+        <g id="Grupo_1080" data-name="Grupo 1080" transform="translate(25.663 -90.881)">
+          <path id="Caminho_10323" data-name="Caminho 10323" d="M0,0H0A6.086,6.086,0,0,1,1.788,4.3,6.085,6.085,0,0,0,0-.023L-10.947-10.971l-4.3,4.295a6.1,6.1,0,0,1-8.633,0,6.086,6.086,0,0,1-1.788-4.295,6.083,6.083,0,0,0,1.788,4.339L-12.938,4.3l4.3-4.3A6.1,6.1,0,0,1,0,0" fill="#ff9027"/>
+        </g>
+      </g>
+      <g id="Grupo_1082" data-name="Grupo 1082" transform="translate(998 621.397)" clip-path="url(#clip-path-4)">
+        <path id="Caminho_10325" data-name="Caminho 10325" d="M11.221-102.394H9.551v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10326" data-name="Caminho 10326" d="M12.891-100.213h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10327" data-name="Caminho 10327" d="M14.561-102.394h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10328" data-name="Caminho 10328" d="M4.544-102.394H2.874v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10329" data-name="Caminho 10329" d="M6.212-100.213H4.542v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10330" data-name="Caminho 10330" d="M7.883-98.032H6.213v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10331" data-name="Caminho 10331" d="M9.551-95.851H7.881v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10332" data-name="Caminho 10332" d="M7.883-102.394H6.213v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10333" data-name="Caminho 10333" d="M9.551-100.213H7.881v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10334" data-name="Caminho 10334" d="M11.221-98.032H9.551v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10335" data-name="Caminho 10335" d="M14.561-98.032h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10336" data-name="Caminho 10336" d="M11.221-93.669H9.551v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10337" data-name="Caminho 10337" d="M12.891-91.488h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10338" data-name="Caminho 10338" d="M14.561-89.307h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10339" data-name="Caminho 10339" d="M12.891-95.851h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10340" data-name="Caminho 10340" d="M14.561-93.669h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10341" data-name="Caminho 10341" d="M7.883-89.307H6.213v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10342" data-name="Caminho 10342" d="M9.551-87.126H7.881v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10343" data-name="Caminho 10343" d="M9.551-91.488H7.881v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10344" data-name="Caminho 10344" d="M11.221-89.307H9.551v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10345" data-name="Caminho 10345" d="M12.891-87.126h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10346" data-name="Caminho 10346" d="M6.212-87.126H4.542v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10347" data-name="Caminho 10347" d="M2.874-95.851H1.2v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10348" data-name="Caminho 10348" d="M4.544-93.669H2.874v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10349" data-name="Caminho 10349" d="M6.212-91.488H4.542v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10350" data-name="Caminho 10350" d="M2.874-100.213H1.2v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10351" data-name="Caminho 10351" d="M4.544-98.032H2.874v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10352" data-name="Caminho 10352" d="M6.212-95.851H4.542v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10353" data-name="Caminho 10353" d="M7.883-93.669H6.213v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10354" data-name="Caminho 10354" d="M2.874-87.126H1.2v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10355" data-name="Caminho 10355" d="M2.874-91.488H1.2v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10356" data-name="Caminho 10356" d="M4.544-89.307H2.874v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10357" data-name="Caminho 10357" d="M24.579-102.394h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10358" data-name="Caminho 10358" d="M26.247-100.213h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10359" data-name="Caminho 10359" d="M17.9-102.394H16.23v2.181H17.9Z" fill="#ff9027"/>
+        <path id="Caminho_10360" data-name="Caminho 10360" d="M19.57-100.213H17.9v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10361" data-name="Caminho 10361" d="M21.24-98.032H19.57v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10362" data-name="Caminho 10362" d="M22.909-95.851h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10363" data-name="Caminho 10363" d="M21.24-102.394H19.57v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10364" data-name="Caminho 10364" d="M22.909-100.213h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10365" data-name="Caminho 10365" d="M24.579-98.032h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10366" data-name="Caminho 10366" d="M24.579-93.669h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10367" data-name="Caminho 10367" d="M26.247-91.488h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10368" data-name="Caminho 10368" d="M26.247-95.851h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10369" data-name="Caminho 10369" d="M21.24-89.307H19.57v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10370" data-name="Caminho 10370" d="M22.909-87.126h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10371" data-name="Caminho 10371" d="M22.909-91.488h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10372" data-name="Caminho 10372" d="M24.579-89.307h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10373" data-name="Caminho 10373" d="M26.247-87.126h-1.67v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10374" data-name="Caminho 10374" d="M19.57-87.126H17.9v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10375" data-name="Caminho 10375" d="M16.23-95.851H14.56v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10376" data-name="Caminho 10376" d="M17.9-93.669H16.23v2.181H17.9Z" fill="#ff9027"/>
+        <path id="Caminho_10377" data-name="Caminho 10377" d="M19.57-91.488H17.9v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10378" data-name="Caminho 10378" d="M16.23-100.213H14.56v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10379" data-name="Caminho 10379" d="M17.9-98.032H16.23v2.181H17.9Z" fill="#ff9027"/>
+        <path id="Caminho_10380" data-name="Caminho 10380" d="M19.57-95.851H17.9v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10381" data-name="Caminho 10381" d="M21.24-93.669H19.57v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10382" data-name="Caminho 10382" d="M16.23-87.126H14.56v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10383" data-name="Caminho 10383" d="M16.23-91.488H14.56v2.181h1.67Z" fill="#ff9027"/>
+        <path id="Caminho_10384" data-name="Caminho 10384" d="M17.9-89.307H16.23v2.181H17.9Z" fill="#ff9027"/>
+      </g>
+      <g id="Grupo_1083" data-name="Grupo 1083" transform="translate(999.788 523.839)">
+        <path id="Caminho_10386" data-name="Caminho 10386" d="M0,0A6.1,6.1,0,0,0,8.633,0l4.3-4.294-4.3-4.295A6.1,6.1,0,0,0,0-8.589,6.089,6.089,0,0,0-1.788-4.294,6.088,6.088,0,0,0,0,0" fill="#d8389c"/>
+      </g>
+      <g id="Grupo_1084" data-name="Grupo 1084" transform="translate(998 550.097)">
+        <path id="Caminho_10387" data-name="Caminho 10387" d="M0,0A6.082,6.082,0,0,1,1.788-4.294a6.1,6.1,0,0,1,8.633,0L14.715,0,25.663-10.947a6.087,6.087,0,0,0,1.788-4.329,6.085,6.085,0,0,1-1.788,4.305,6.106,6.106,0,0,1-8.634,0l-4.3-4.305L1.788-4.339A6.083,6.083,0,0,0,0,0" fill="#6cc247"/>
+      </g>
+      <g id="Grupo_1085" data-name="Grupo 1085" transform="translate(1023.663 539.126)">
+        <path id="Caminho_10388" data-name="Caminho 10388" d="M0,0H0A6.086,6.086,0,0,0,1.788-4.3,6.086,6.086,0,0,0,0-8.61a6.1,6.1,0,0,0-8.633,0l-4.3,4.3,4.3,4.3A6.1,6.1,0,0,0,0,0" fill="#e2e365"/>
+      </g>
+      <g id="Grupo_1086" data-name="Grupo 1086" transform="translate(999.788 545.802)">
+        <path id="Caminho_10389" data-name="Caminho 10389" d="M0,0H0A6.089,6.089,0,0,0,8.633,8.589l4.3-4.295L8.633,0A6.1,6.1,0,0,0,0,0" fill="#2268b8"/>
+      </g>
+    </g>
+  </g>
+</svg>

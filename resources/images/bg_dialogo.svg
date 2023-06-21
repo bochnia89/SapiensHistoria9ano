@@ -1,0 +1,22 @@
+<svg id="bg_dialogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330.82" height="43.769" viewBox="0 0 330.82 43.769">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_2065" data-name="Retângulo 2065" width="330.82" height="43.769" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_322" data-name="Grupo 322" clip-path="url(#clip-path)">
+    <rect id="Retângulo_2056" data-name="Retângulo 2056" width="26.112" height="26.112" rx="6.627" transform="translate(19.564 28.05) rotate(-45)" fill="#aed3f3"/>
+    <rect id="Retângulo_2057" data-name="Retângulo 2057" width="26.112" height="26.112" rx="6.627" transform="translate(203.829 28.05) rotate(-45)" fill="#aed3f3"/>
+    <rect id="Retângulo_2058" data-name="Retângulo 2058" width="26.112" height="26.112" rx="6.627" transform="translate(235.267 28.05) rotate(-45)" fill="#e5de40"/>
+    <rect id="Retângulo_2059" data-name="Retângulo 2059" width="26.112" height="26.112" rx="6.627" transform="translate(296.637 28.05) rotate(-45)" fill="#e5de40"/>
+    <rect id="Retângulo_2060" data-name="Retângulo 2060" width="184.265" height="31.438" transform="translate(38.028 12.331)" fill="#aed3f3"/>
+    <rect id="Retângulo_2061" data-name="Retângulo 2061" width="61.37" height="31.438" transform="translate(253.731 12.331)" fill="#e5de40"/>
+    <rect id="Retângulo_2062" data-name="Retângulo 2062" width="23.575" height="12.193" transform="translate(17.775 18.245) rotate(-45)" fill="#f77e0b"/>
+    <rect id="Retângulo_2063" data-name="Retângulo 2063" width="12.193" height="23.575" transform="translate(1.561 10.197) rotate(-45)" fill="#49b394"/>
+    <path id="Caminho_3139" data-name="Caminho 3139" d="M1.788,1.788h0a6.1,6.1,0,0,1,8.61,8.633l-4.3,4.305-4.3-4.305a6.1,6.1,0,0,1,0-8.633" fill="#0057a5"/>
+    <rect id="Retângulo_2064" data-name="Retângulo 2064" width="24.379" height="12.193" transform="translate(38.298 0.149)" fill="#49b394"/>
+    <path id="Caminho_3140" data-name="Caminho 3140" d="M38.29.148h0a6.1,6.1,0,0,0,.016,12.193H44.4V6.253a6.1,6.1,0,0,0-6.1-6.1" fill="#e5de40"/>
+    <path id="Caminho_3141" data-name="Caminho 3141" d="M18,26.654h0a6.1,6.1,0,0,0,8.61-8.633l-4.305-4.305L18,18.021a6.1,6.1,0,0,0,0,8.633" fill="#bc1680"/>
+    <path id="Caminho_3142" data-name="Caminho 3142" d="M62.692,12.326h0A6.089,6.089,0,0,0,62.661.148H56.587V6.221a6.1,6.1,0,0,0,6.1,6.105" fill="#bc1680"/>
+  </g>
+</svg>
