@@ -224,7 +224,6 @@ main {
     max-width: 800px;
     margin: 0 auto;
 }
-/* CSS de divulgação */
 .divulgacaoG24{
     background: #F8F4BD; 
     height: 100vh;
@@ -233,13 +232,53 @@ main {
 .vamosDivulgar {
     max-width: 900px !important;
 }
+
+.infoLivro {
+
+    width: 60%;
+
+}
+
+.h_titulo_volume {
+    font-size: 1.6em;
+    font-family: 'Rubik';
+    background: #3262ac;
+    border-radius: 6em;
+    padding: 0.5em 1em;
+    width: max-content;
+    max-width: 100%;
+    line-height: 1.2em;
+}
+.h_titulo_volume a{
+    color: #fff;
+}
+.p_titulo_colecao{
+   
+    
+}
+.p_titulo_colecao a{
+    color: #3262ac;
+      
+}
+.conteudo_autores a{
+    color: #3262ac;
+}
+.p_codigo_livro {}
+.p_autores {}
+.p_sinopse {
+    margin-top: 1em;
+}
+.dados{
+    margin-left: 1.5em;
+}
+
 .capaLivroDV {
     border: 1px solid #aaaaaa;
     box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.2);
     margin: 2.5em 0 1em 0;
 }
 .alinhaOEDSdv {
-    align-items:flex-start;
+    align-items:center;
     gap: 2em;
 }
 .apresetaOED {
@@ -296,8 +335,11 @@ main {
 }
 .navOEDs  nav ul li a {
     color: #3262ac;
+   
 }
-
+.navCarrosselDV li a {
+   
+}
 .navOEDs  nav ul li {
    background: #fff;
     border: 1px solid #3262ac;
@@ -313,6 +355,7 @@ main {
 .navOEDs  nav ul li:hover a{
   color:#fff;
 }
+
 .btnPDF {
     background: #3262ac;
     color:#fff;
@@ -324,182 +367,6 @@ main {
     margin-top: 1.5em;
     display: block;
 }
-/* ENRIQUEQUECIMENTO*/
-
-.enriquecimento {
-
-    padding: 2em;
-    background: url(../images/bg_gabarito.svg) top left no-repeat #f2f5d5;
-    margin:0 0 1em 0;
-    width: 100%;
-    max-width: 100%;
-    
-}
-
-.enriquecimento h2 {
-    font-family: 'Rubik', sans-serif;
-    font-size: 1.3em;
-    text-align: center;
-    color:#152030;
-    margin: 1em 0 0 0.5em;
-    display: block;
-}
-
-.enriquecimento h3 {
-    font-family: 'Rubik', sans-serif;
-    font-size: 1.2em;
-    margin: 1em 0 0.5em 0;
-    text-align: center;
-}
-
-
-.voltar_enriquecimento {
-    background: #576192;
-    font-family: 'Rubik', sans-serif;
-    font-size: 1.1em;
-    color: #fff;
-    padding: 8px;
-    text-align: center;
-    margin: 1em 0 1em 0;
-    float: right;
-    border-radius: 8px;
-    box-shadow: 5px 3px 5px rgba(0, 0, 0, 0.2);
-  }
-
-  .voltar_enriquecimento:hover {
-    background: #bfc7ee;
-    font-family: 'Rubik', sans-serif;
-    font-size: 1.1em;
-    color: #40476e;
-    padding: 8px;
-    text-align: center;
-    margin: 1em 0;
-    float: right;
-    border-radius: 8px;
-    box-shadow: 5px 3px 5px rgba(0, 0, 0, 0.2);
-  }
-
-  video {
-      width: 100%;
-      max-width: 100%;
-      margin: 1em 0;
-  }
-
-.tit_oed_carrossel{
-    text-align:left;
-    font-family:'Rubik', sans-serif;
-    color:#000;
-    background: url(../images/ico_carrossel.svg) center left no-repeat;
-    background-position-y: 10px;
-    background-position-x: 10px;
-    background-size: 30px;
-    font-size: 1.5em;
-    max-width:100%;
-    width:max-content;
-    margin:0.5em 0 1em 0;
-    padding:0.7em 0.5em 0.5em 2em;
-    background-color: #d5df40;
-    border-radius: 10px 10px 10px 0;
-    display:block;
-}
-
-.tit_oed_infografico{
-    text-align:left;
-    font-family:'Rubik', sans-serif;
-    color:#000;
-    background: url(../images/ico_infografico.svg) center left no-repeat;
-    background-position-y: 10px;
-    background-position-x: 10px;
-    background-size: 30px;
-    font-size: 1.5em;
-    max-width:100%;
-    width:max-content;
-    margin:0.5em 0 1em 0;
-    padding:0.5em 0.5em 0.2em 2em;
-    background-color: #5a90cc;
-    border-radius: 10px 10px 10px 0;
-    display:block;
-}
-
-.tit_oed_infografico2 {
-    text-align: left;
-    font-family:'Rubik', sans-serif;
-    color: #000;
-    background: url(../images/ico_infografico.svg) center left no-repeat;
-    background-position-y: 10px;
-    background-position-x: 10px;
-    background-size: 30px;
-    font-size: 1.5em;
-    max-width: 100%;
-    width: max-content;
-    margin: 1em 0 0.5em 1em;
-    padding: 0.5em 0.5em 0.5em 2em;
-    background-color: #e22d9d;
-    border-radius: 10px 10px 10px 0;
-    display: block;
-}
-
-.tit_oed_gifanimado {
-    text-align: left;
-    font-family:'Rubik', sans-serif;
-    color: #000;
-    background: url(../images/ico_gif.svg) center left no-repeat;
-    background-position-y: 10px;
-    background-position-x: 10px;
-    background-size: 30px;
-    font-size: 1.5em;
-    max-width: 100%;
-    width: max-content;
-    margin: 1em 0 0.5em 1em;
-    padding: 0.5em 0.5em 0.5em 2em;
-    background-color: #f5821f;
-    border-radius: 10px 10px 10px 0;
-    display: block;
-}
-
-.tit_oed_podcast {
-    text-align: left;
-    font-family:'Rubik', sans-serif;
-    font-weight: bold;
-    color: #000;
-    background: url(../images/ico_podcast.svg) center left no-repeat;
-    background-position-y: 10px;
-    background-position-x: 10px;
-    background-size: 30px;
-    font-size: 1.5em;
-    max-width: 100%;
-    width: max-content;
-    margin: 1em 0 0.5em 1em;
-    padding: 0.5em 0.5em 0.5em 2em;
-    background-color: #6dbbaf;
-    border-radius: 10px 10px 10px 0;
-    display: block;
-}
-
-.tit_oed_video {
-    text-align: left;
-    font-family:'Rubik', sans-serif;
-    color: #000;
-    background: url(../images/ico_videoaulal.svg) center left no-repeat;
-    background-position-y: 10px;
-    background-position-x: 10px;
-    background-size: 30px;
-    font-size: 1.5em;
-    max-width: 100%;
-    width: max-content;
-    margin: 1em 0 0.5em 1em;
-    padding: 0.5em 0.5em 0.5em 2em;
-    background-color: #f5821f;
-    border-radius: 10px 10px 10px 0;
-    display: block;
-}
-
-.tit_carrossel{  color: #000;
-    font-size: 1.3em;
-    margin: 1.5em 0 0 0;
-    max-width: 100%;
-    font-family: "magistral CondExtraBold";
-  }
 
 /* CSS com Classes */
 
